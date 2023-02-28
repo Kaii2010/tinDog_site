@@ -1,0 +1,166 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat-black', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+
+.container-fluid {
+    padding: 2% 15%;
+}
+
+/* Nav bar */
+.navbar {
+    padding-bottom: 6%;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    padding-right: 12%;
+}
+
+.nav-item {
+    padding-left: 16%;
+
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+/* Download buttons */
+.custom-download-btn {
+    margin: 5% 3% 5% 0;
+
+}
+
+/* Title image */
+.title-img {
+    width: 60%;
+
+    transform: rotate(20deg);
+    margin-left: 5%;
+}
+
+/* Features */
+#features {
+    text-align: center;
+}
+
+.features-row{
+    margin:0;
+}
+.features-div{
+    margin: 6% auto 8%;
+    
+    
+}
+.features-icon {
+    color: #ef8172;
+    margin-bottom: 3%;
+
+   
+}
+
+.features-icon:hover{
+    color: #ff4c68;
+}
+
+.features-title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.8rem;
+    line-height: 1.5;
+}
+
+#features p{
+    color: #8F8F8F;
+}
+
+/* Testimonials */
+#testimonials{
+   
+    text-align: center;
+
+    background-color:#ef8172 ;
+
+    color: #fff;
+}
+.carousel-item{
+    padding: 5% 15% 5%;
+}
+
+#testimonials h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 2.8rem;
+    line-height: 1.5;
+}
+
+.testimonial-image{
+    width: 12%;
+    border-radius: 100%;
+
+    margin: 2%;
+}
+
+/* Press section */
+#press{
+    background-color:#ef8172;
+    text-align: center;
+    
+    padding: 3% 0 4%;
+}
+
+.press-img{
+    width: 15%;
+    margin: auto 2%;
+}
+
+/* Pricing Section */
+#pricing{
+    padding: 6%;
+}
+
+
+#pricing h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.pricing-col{
+    padding:3% 4% ;
+}
+
+.pricing-col h2{
+    font-size: 2.5rem;
+}
+
+.third-card-body{
+    line-height: 0.95;
+}
+/* 
+font-family: 'Merriweather', serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Ubuntu', sans-serif; 
+*/
