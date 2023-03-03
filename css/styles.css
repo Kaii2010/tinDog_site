@@ -220,7 +220,13 @@ h1 {
         margin:6% auto;
 
         transform: rotate(0deg);
-       
+    }
+
+    .custom-download-btn {
+        margin: 5% 3% 1% 0;
+    
+        width: 50%;
+    
     }
 
 
