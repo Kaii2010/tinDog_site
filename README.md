@@ -1,2 +1,1 @@
-# tinDog_site
-A mock dating site for dogs.
+TinDog Starting Files
